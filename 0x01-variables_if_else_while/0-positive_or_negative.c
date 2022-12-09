@@ -2,14 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
+ * main- the program's entry point
  *
+ * Description: A C program that checks a variable n
  *
- *
- *  * main - the program's entry point
- *
- *  Description: A C program that checks a variable n
- *
- *  Return: Always 0
+ * Return: Always 0
  *
  */
 int main(void)
