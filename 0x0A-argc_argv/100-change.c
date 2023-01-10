@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * isInteger - checks if s is an integer
- * @s: string to check
+ * main - prints coin left
+ * @s: paramater entry
  * Return: 0 or 1
  */
 
-int isInteger(const char *s)
+int main(int args)
 {
 	int i = 0;
 	while (s[i] != '\0')
